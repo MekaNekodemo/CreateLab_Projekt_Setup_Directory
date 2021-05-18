@@ -10,7 +10,7 @@ Files to help you with RPi setup, developmentenvironment setup, trouble shooting
 
 CreateLab's Pupper Init Files v1.3.1
 -------------
-These files are used when creating a new Debian Image.
+These files are used when creating a new Debian Image to be used with CreateLabs Pupper Variant.
 
 SSH connection tools
 -------------
